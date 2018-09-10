@@ -1,0 +1,24 @@
+=============== Pre-requisite ===============
+In order to run the code, the user should have 'Eclipse setup with Java libraries'.
+
+=============== Main Code Execution ===============
+
+Follow the steps below to execute the code:
+
+1. Create a java project (File > New > Java Project)
+2. Right click on the created project and create a package (New > Package)
+3. Right click on the created package and create a class (New > Class)
+4. Copy the code to the workspace
+5. Click on Run button from the menu
+6. Enter the input sentence in the console and click on enter
+
+The output will be displayed in the console.
+
+=============== Unit test cases Execution ===============
+
+Follow the steps below to execute the code:
+
+1. Create a Junit Test case  (File > New > Junit Test Case)
+2. Copy the Unit test cases code to the workspace
+3. Click on run button
+
